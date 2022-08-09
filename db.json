@@ -1,3 +1,5 @@
 {
-    "one-ktb/api/activities/quiz/1/insight": 11
+    "one-ktb/api/activities/quiz/1/insight": {
+        "obj1":11
+    }
 }
